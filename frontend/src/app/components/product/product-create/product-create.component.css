@@ -1,4 +1,21 @@
-form {
+.card {
+  display: flex;
+  padding: 5px;
+}
+
+.form-field {
   display: flex;
   flex-direction: column;
+  padding: 10px;
+}
+
+/* form {
+  display: flex;
+  flex-direction: column;
+}
+*/
+
+.buttons button {
+  margin-right: 20px;
+  margin-top: 15px;
 }
